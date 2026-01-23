@@ -33,17 +33,24 @@ int main()
 	string yn;
 	cout<< "Good or Bad?"<<endl;
 	cin>>yn;
-
+    
+    cout<< " "<<endl;
+    cout<< " "<<endl;
+    cout<< " "<<endl;
 	
     //here's the finished product
     cout << "Your story is called: Melissa's " << item <<endl;
+    cout<< " "<<endl;
     cout << "Melissa woke up on " << day << ". She grabbed a " <<item<< " she was keeping under her " <<furni<< endl;
+    cout<< " "<<endl;
     cout << "When she came downstairs her "<<famil<< " asked her what was inside." <<endl;
-    cout<< "Something really " <<emot<<endl;
-    
+    cout<< " "<<endl;
+    cout<< "She had said that it was something really " <<emot<<endl;
+    cout<< " "<<endl;
     cout<< "Then, Melissa made her way down to the " <<place<< " To " <<action<<endl;
+    cout<< " "<<endl;
     cout<< "It went "<<yn<<endl;
-    
+    cout<< " "<<endl;
     cout<< "The End."<<endl;
     
     //I tried to do something with numbers making a final choice, but I couldn't figure it out yet.
